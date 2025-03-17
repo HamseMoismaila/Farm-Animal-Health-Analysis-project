@@ -1,4 +1,4 @@
-# 🐄🐓 **Farm Animal Health Analysis** 🐖🐑  
+# 🐄🐓 **Farm Animal Health Analysis** 🐑  
 
 ### 📌 **Project Overview**  
 This project explores farm animal health using data analysis techniques to identify patterns in **weight, age, and health status**. By leveraging data, we aim to **detect potential health risks** earlier and provide insights that could help in better livestock management.  
@@ -78,4 +78,4 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 ⭐ If you find this project useful, give it a star! ⭐
 
 
-##⭐ Don't forget to star this repo if you like it! ⭐
+##⭐ **Don't forget to star this repo if you like it!** ⭐
