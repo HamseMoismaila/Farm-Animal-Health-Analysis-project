@@ -47,3 +47,35 @@ This project explores farm animal health using data analysis techniques to ident
 ├── 📁 models               # Trained ML models (coming soon)
 ├── 📁 scripts              # Python scripts for automation
 └── 📊 results              # Visualizations & findings
+
+
+📢 How to Use This Project
+1️⃣ Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/Farm-Animal-Health-Analysis.git
+2️⃣ Install required dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+3️⃣ Run the Jupyter Notebook for analysis:
+
+bash
+Copy code
+jupyter notebook
+🔗 Project Link
+📂 GitHub Repository: Farm-Animal-Health-Analysis
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements.
+
+📬 Contact & Collaboration
+📧 Email: HamseMohamed010@gmail.com
+🔗 Portfolio: HamseIsmail.com
+
+⭐ If you find this project useful, give it a star! ⭐
+md
+Copy code
+⭐ Don't forget to star this repo if you like it! ⭐
