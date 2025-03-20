@@ -146,7 +146,7 @@ print(round (healthy_stats,3))
 
 
 # Other ways to check the above  
-# ✅ Works similarly to groupby() but can handle multiple aggregation functions.
+# Works similarly to groupby() but can handle multiple aggregation functions.
 
 healthy_stats = df.pivot_table(index='Healthy', values=['Weight(kg)', 'Age'], aggfunc='mean')
 print(healthy_stats)
